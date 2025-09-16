@@ -2,7 +2,7 @@ CrazySeven Games — Privacy Policy (CCPA/CPRA-Ready)
 
 Effective date: 16 September 2025
 
-Last updated: 16 September 2025
+Last updated: 16 September 2025 
 
 1) Who we are (Data Controller)
    
