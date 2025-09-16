@@ -1,12 +1,21 @@
 CrazySeven Games — Privacy Policy (CCPA/CPRA-Ready)
+
 Effective date: 16 September 2025
+
 Last updated: 16 September 2025
+
 1) Who we are (Data Controller)
+   
 CrazySeven Games (“CrazySeven”, “we”, “our”, “us”) provides mobile games, websites, and related services (the “Services”).
+
 Data Controller: CrazySeven Games (individual developer)
+
 Privacy contact: [ceriny942@gmail.com]
+
 Postal address: [ceriny942@gmail.com]
+
 EU/UK Representative (if required): [ “Not applicable”]
+
 Data Protection Officer (DPO): We have not appointed a DPO under GDPR Art. 37. For any privacy matter, contact us at [ceriny942@gmail.com].
 ________________________________________
 2) What data we collect
